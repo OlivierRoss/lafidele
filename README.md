@@ -1,3 +1,4 @@
+![image.png](logo.png)
 # Fidèle Estrie
 
 > La **Fidèle** est une structure purement administrative qui permet à des projets citoyens ou collectif de recevoir des fonds sans avoir besoin de s’incorporer.
@@ -16,7 +17,7 @@ Or, recourir à un fiduciaire **n’est pas toujours simple, et soulève des enj
 
 # Comment ca marche?
 
-![image.png](logo.png)
+![image.png](fonctionnement.png)
 
 <aside>
 🔑
