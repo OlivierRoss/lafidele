@@ -16,7 +16,7 @@ Or, recourir à un fiduciaire **n’est pas toujours simple, et soulève des enj
 
 # Comment ca marche?
 
-![image.png](Fide%CC%80le%20Estrie%201135733758f580ce91efe0568d75626a/image.png)
+![image.png](logo.png)
 
 <aside>
 🔑
